@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @filipeemweb. My actual name is Filipe de Lacerda and i'm from Brazil.
+- 👋 Hi, I’m @filipeemweb. My name is Filipe de Lacerda and i'm from Brazil.
 - 🌎 I speak portuguese, english and my japanese/french are works in progress.
 - 👀 I’m interested in all kinds of technology and programing languages.  
 - 🌱 I’m currently learning SQL, Front-End, Back-End and Unity, and that's just the beginning.
