@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @filipeemweb. My name is Filipe de Lacerda and i'm from Brazil.
-- 🌎 I speak portuguese, english and my japanese/french are works in progress.
-- 👀 I’m interested in all kinds of technology and programing languages.  
-- 🌱 I’m currently learning SQL, Front-End, Back-End and Unity, and that's just the beginning.
-- 💞️ I’m looking to collaborate on as many projects as possible, so that i can continue to grow even move in my newly started career.
+- 👋 Hi, my name is Filipe de Lacerda, I'm 19 years old and from Brazil.
+    
+- 🎓 I'm in the 1st semester of the bachelor's degree in System Analysis and Development.
+  
+- 🌎 Brasília native, with a passion for Technology, Languages, and Travelling.
+  
+- 🎯 My biggest goal is to solve problems through technology, make a difference in creating educational projects, and make technology accessible for all.
+  
+- 💻 I hope to work for an international company, with a diverse team and I hope to impact the company and the community by bringing creative and innovative solutions.
+  
+- 🌱 I’m looking to collaborate on as many projects as possible so that I can continue to grow even more as a developer and as a person.
+  
+- ⛳️ In my free time, I like to study technology and foreign languages, learn about the culture of other countries, play games, read and practice sports.
+  
 - 📫 How to reach me: filipeem.web@gmail.com
 
 <!---
