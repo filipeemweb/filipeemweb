@@ -1,6 +1,4 @@
-- 👋 Hi, my name is Filipe de Lacerda, I'm 19 years old and from Brazil.
-    
-- 🎓 I'm in the 1st semester of the bachelor's degree in System Analysis and Development.
+- 👋 Hi, my name is Filipe de Lacerda, I'm from Brazil.
   
 - 🌎 Brasília native, with a passion for Technology, Languages, and Travelling.
   
